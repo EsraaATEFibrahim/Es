@@ -13,6 +13,7 @@ git add README.md
 git commit -m "READMe file"
 git push es master
 
+
 git branch ReadMe
 git checkout ReadMe 
 git add README.md
@@ -21,6 +22,11 @@ git commit -m "not gonna push it this time"
 git checkout master
 git merge ReadMe
 git push es ReadMe
+
+
+
+
+//not a command : i used { touch README.md } to create a file.. it worked however i had troubles fill it so i added it later
 
 
 
