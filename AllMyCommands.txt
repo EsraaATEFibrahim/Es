@@ -1,4 +1,4 @@
-cd subm
+cd es
 git init
 git add one.txt
 git add two.txt
