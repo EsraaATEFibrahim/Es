@@ -9,3 +9,5 @@ Author: Esraa Ibrahim
 Id: 37-7574
 
 Acknowledgments: book Chacon, Scott, and Ben Straub. Pro Git. Apress, 2014.
+
+[updated - merged with ReadME branch]
