@@ -7,8 +7,10 @@ description: this sprint is a startup for us (MET 6th sem) to practice and get f
 ## Author: 
 Esraa Ibrahim
 
-Id: 37-7574
+## Id: 
+37-7574
 
-Acknowledgments: book Chacon, Scott, and Ben Straub. Pro Git. Apress, 2014.
+## Acknowledgments: 
+book Chacon, Scott, and Ben Straub. Pro Git. Apress, 2014.
 
 [updated - merged with ReadME branch]
