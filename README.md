@@ -1,10 +1,10 @@
 
-#Project Title: Sprint 0
+# Project Title: Sprint 0
 
 
 description: this sprint is a startup for us (MET 6th sem) to practice and get familiar with github, that got many benifits for the future use of it as well as for our Software Engineering project
 
-##Author: 
+## Author: 
 Esraa Ibrahim
 
 Id: 37-7574
